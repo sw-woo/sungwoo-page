@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[39756,["/sungwoo-page/_next/static/chunks/cf99b0ef117e205c.js","/sungwoo-page/_next/static/chunks/1e0366da52f2f398.js","/sungwoo-page/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
-3:I[37457,["/sungwoo-page/_next/static/chunks/cf99b0ef117e205c.js","/sungwoo-page/_next/static/chunks/1e0366da52f2f398.js","/sungwoo-page/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
-0:{"buildId":"U_WRIpZbnwEQNBUbDae6C","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[39756,["/sungwoo-page/_next/static/chunks/cf99b0ef117e205c.js","/sungwoo-page/_next/static/chunks/2f1c0e348c41cecd.js","/sungwoo-page/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+3:I[37457,["/sungwoo-page/_next/static/chunks/cf99b0ef117e205c.js","/sungwoo-page/_next/static/chunks/2f1c0e348c41cecd.js","/sungwoo-page/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
+0:{"buildId":"JQhVeFWrx04SQwwe46pix","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

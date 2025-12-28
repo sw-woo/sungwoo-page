@@ -1,16 +1,55 @@
-# Sungwoo's Portfolio & Tech Blog
+# 🚀 Sungwoo's Problem-Solving Portfolio
 
-Modern portfolio and technical blog built with Next.js, TypeScript, and Tailwind CSS.
+[![Next.js](https://img.shields.io/badge/Next.js-16.1-black)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1-38bdf8)](https://tailwindcss.com/)
+
+**문제 해결 중심 포트폴리오 + 기술 블로그**
+
+실제 문제를 해결한 경험과 성과를 정량적 지표로 보여주는 현대적인 포트폴리오 웹사이트
+
+🌐 **Live Site**: https://sw-woo.github.io/sungwoo-page/
+
+---
+
+## ✨ 차별화 포인트
+
+### 🎯 Problem-Solution-Impact 구조
+각 프로젝트를 다음 구조로 제시:
+- 💡 **Problem**: 해결한 구체적인 문제
+- ✅ **Solution**: 기술적 접근 방법
+- 📊 **Impact**: 정량적 성과 (80% 개선, 92% 정확도 등)
+
+### 📊 성과 지표 섹션
+- **40+ Community Impact**: Stars & Forks
+- **80% Performance**: RAG 시스템 최적화
+- **6 Production Projects**: 실전 솔루션
+- **92% Accuracy**: AI 검색 정확도
+
+### 📝 실전 문제 해결 블로그
+- RAG 성능 최적화 사례 (검색 속도 80% 개선)
+- Before/After 코드 비교
+- 구체적인 벤치마크 결과
+- 실무 적용 팁
+
+### 📧 이메일 연락 시스템
+- EmailJS 통합
+- 실시간 메시지 전송
+- 반응형 폼 디자인
+
+---
 
 ## 🚀 Features
 
-- **Portfolio Showcase**: Display of featured projects with GitHub integration
-- **Tech Blog**: Markdown-based blog system for technical writing
-- **Contact Form**: Integrated email contact form using EmailJS
-- **Responsive Design**: Mobile-first design with Tailwind CSS
-- **Dark Mode Ready**: Support for dark/light themes
-- **SEO Optimized**: Meta tags and OpenGraph support
-- **GitHub Pages**: Automated deployment with GitHub Actions
+- ✅ **문제 해결 중심 포트폴리오**: Problem-Solution-Impact 구조
+- ✅ **성과 지표 시각화**: 정량적 임팩트 표시
+- ✅ **기술 블로그**: Markdown 기반 블로그 시스템
+- ✅ **타임라인**: Problem-Solving Journey
+- ✅ **연락 폼**: EmailJS 이메일 전송
+- ✅ **반응형 디자인**: 모바일 최적화
+- ✅ **다크 모드**: 라이트/다크 테마 지원
+- ✅ **SEO 최적화**: 메타 태그, OpenGraph
+- ✅ **자동 배포**: GitHub Actions → GitHub Pages
 
 ## 🛠️ Tech Stack
 

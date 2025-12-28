@@ -11,12 +11,11 @@ const Hero = () => {
             Hi, I'm <span className="gradient-text">Sungwoo</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto">
-            AI/ML Developer & Full-Stack Engineer
+            AI/ML Developer & Problem Solver
           </p>
           <p className="text-lg text-gray-600 dark:text-gray-400 mb-12 max-w-2xl mx-auto">
-            Specializing in LangChain, AI integration, and building intelligent
-            applications. Passionate about creating innovative solutions with
-            cutting-edge technology.
+            복잡한 기술 문제를 LangChain과 AI로 해결합니다. <br />
+            실전 프로젝트 경험을 바탕으로 한국 개발자 커뮤니티에 기여하고 있습니다.
           </p>
 
           <div className="flex justify-center gap-4 mb-12">

@@ -1,0 +1,66 @@
+1:"$Sreact.fragment"
+2:I[22016,["/sungwoo-page/_next/static/chunks/cf99b0ef117e205c.js","/sungwoo-page/_next/static/chunks/1e0366da52f2f398.js"],""]
+7:I[97367,["/sungwoo-page/_next/static/chunks/ff1a16fafef87110.js","/sungwoo-page/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+0:{"buildId":"U_WRIpZbnwEQNBUbDae6C","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen pt-24 pb-16 bg-gray-50 dark:bg-gray-900","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8","children":[["$","$L2",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-blue-600 dark:text-blue-400 hover:underline mb-8","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 448 512","children":["$undefined",[["$","path","0",{"d":"M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"Back to Blog"]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-gray-900 dark:text-white","children":"LangChain 시작하기: AI 애플리케이션 구축의 새로운 패러다임"}],["$","div",null,{"className":"flex items-center gap-4 text-gray-600 dark:text-gray-400 mb-6","children":[["$","span",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 448 512","children":["$undefined",[["$","path","0",{"d":"M12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm436-44v-36c0-26.5-21.5-48-48-48h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v36c0 6.6 5.4 12 12 12h424c6.6 0 12-5.4 12-12z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"2024년 12월 20일"]}],["$","span",null,{"children":["by ","Sungwoo"]}]]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","0",{"className":"px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full flex items-center gap-1","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 512 512","className":"text-xs","children":["$undefined",[["$","path","0",{"d":"M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"LangChain"]}],["$","span","1",{"className":"px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full flex items-center gap-1","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 512 512","className":"text-xs","children":["$undefined",[["$","path","0",{"d":"M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"AI"]}],["$","span","2",{"className":"px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full flex items-center gap-1","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 512 512","className":"text-xs","children":["$undefined",[["$","path","0",{"d":"M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"Python"]}],"$L3"]}]]}],"$L4"]}]}],null,"$L5"]}],"loading":null,"isPartial":false}
+3:["$","span","3",{"className":"px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full flex items-center gap-1","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 512 512","className":"text-xs","children":["$undefined",[["$","path","0",{"d":"M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"Tutorial"]}]
+6:T96f,<h1>LangChain 시작하기</h1>
+<p>LangChain은 대규모 언어 모델(LLM)을 활용한 애플리케이션을 쉽게 구축할 수 있게 해주는 강력한 프레임워크입니다. 이 글에서는 LangChain의 기본 개념과 실전 활용법을 알아보겠습니다.</p>
+<h2>LangChain이란?</h2>
+<p>LangChain은 LLM을 중심으로 애플리케이션을 개발할 수 있도록 설계된 프레임워크입니다. 다음과 같은 핵심 기능을 제공합니다:</p>
+<ul>
+<li><strong>체인(Chains)</strong>: 여러 LLM 호출을 연결</li>
+<li><strong>에이전트(Agents)</strong>: 동적으로 도구를 선택하고 실행</li>
+<li><strong>메모리(Memory)</strong>: 대화 컨텍스트 유지</li>
+<li><strong>문서 로더</strong>: 다양한 소스에서 데이터 로드</li>
+</ul>
+<h2>시작하기</h2>
+<h3>설치</h3>
+<pre><code class="language-python">pip install langchain openai
+</code></pre>
+<h3>기본 예제</h3>
+<pre><code class="language-python">from langchain.llms import OpenAI
+from langchain.prompts import PromptTemplate
+from langchain.chains import LLMChain
+
+# LLM 초기화
+llm = OpenAI(temperature=0.7)
+
+# 프롬프트 템플릿 생성
+template = "다음 주제에 대해 설명해주세요: {topic}"
+prompt = PromptTemplate(template=template, input_variables=["topic"])
+
+# 체인 생성
+chain = LLMChain(llm=llm, prompt=prompt)
+
+# 실행
+result = chain.run(topic="양자 컴퓨팅")
+print(result)
+</code></pre>
+<h2>RAG (Retrieval-Augmented Generation)</h2>
+<p>LangChain의 가장 강력한 기능 중 하나는 RAG 구현입니다:</p>
+<pre><code class="language-python">from langchain.vectorstores import Chroma
+from langchain.embeddings import OpenAIEmbeddings
+from langchain.document_loaders import TextLoader
+
+# 문서 로드
+loader = TextLoader("data.txt")
+documents = loader.load()
+
+# 벡터 스토어 생성
+embeddings = OpenAIEmbeddings()
+vectorstore = Chroma.from_documents(documents, embeddings)
+
+# 검색 및 생성
+retriever = vectorstore.as_retriever()
+</code></pre>
+<h2>마치며</h2>
+<p>LangChain은 AI 애플리케이션 개발을 혁신적으로 간소화합니다. 이 튜토리얼이 여러분의 LangChain 여정의 시작점이 되길 바랍니다!</p>
+<h2>참고 자료</h2>
+<ul>
+<li><a href="https://python.langchain.com/">LangChain 공식 문서</a></li>
+<li><a href="https://github.com/sw-woo/hanbit-langchain">나의 GitHub 저장소</a></li>
+</ul>
+4:["$","div",null,{"className":"bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8 border border-gray-200 dark:border-gray-700","children":["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none prose-headings:text-gray-900 dark:prose-headings:text-white prose-p:text-gray-700 dark:prose-p:text-gray-300 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-strong:text-gray-900 dark:prose-strong:text-white prose-code:text-blue-600 dark:prose-code:text-blue-400 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-pre:text-gray-100","dangerouslySetInnerHTML":{"__html":"$6"}}]}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

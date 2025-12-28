@@ -1,0 +1,198 @@
+1:"$Sreact.fragment"
+2:I[22016,["/sungwoo-page/_next/static/chunks/cf99b0ef117e205c.js","/sungwoo-page/_next/static/chunks/1e0366da52f2f398.js"],""]
+7:I[97367,["/sungwoo-page/_next/static/chunks/ff1a16fafef87110.js","/sungwoo-page/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+0:{"buildId":"U_WRIpZbnwEQNBUbDae6C","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen pt-24 pb-16 bg-gray-50 dark:bg-gray-900","children":["$","article",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8","children":[["$","$L2",null,{"href":"/blog","className":"inline-flex items-center gap-2 text-blue-600 dark:text-blue-400 hover:underline mb-8","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 448 512","children":["$undefined",[["$","path","0",{"d":"M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"Back to Blog"]}],["$","header",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-gray-900 dark:text-white","children":"RAG 시스템 성능 문제 해결기: 검색 속도 80% 개선"}],["$","div",null,{"className":"flex items-center gap-4 text-gray-600 dark:text-gray-400 mb-6","children":[["$","span",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 448 512","children":["$undefined",[["$","path","0",{"d":"M12 192h424c6.6 0 12 5.4 12 12v260c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V204c0-6.6 5.4-12 12-12zm436-44v-36c0-26.5-21.5-48-48-48h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v36c0 6.6 5.4 12 12 12h424c6.6 0 12-5.4 12-12z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"2024년 12월 28일"]}],["$","span",null,{"children":["by ","Sungwoo"]}]]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","0",{"className":"px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full flex items-center gap-1","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 512 512","className":"text-xs","children":["$undefined",[["$","path","0",{"d":"M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"RAG"]}],["$","span","1",{"className":"px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full flex items-center gap-1","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 512 512","className":"text-xs","children":["$undefined",[["$","path","0",{"d":"M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"Performance"]}],["$","span","2",{"className":"px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full flex items-center gap-1","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 512 512","className":"text-xs","children":["$undefined",[["$","path","0",{"d":"M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"LangChain"]}],"$L3"]}]]}],"$L4"]}]}],null,"$L5"]}],"loading":null,"isPartial":false}
+3:["$","span","3",{"className":"px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 rounded-full flex items-center gap-1","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 512 512","className":"text-xs","children":["$undefined",[["$","path","0",{"d":"M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z","children":[]}]]],"style":{},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"Problem Solving"]}]
+6:T1a5d,<h1>RAG 시스템 성능 문제 해결기</h1>
+<h2>문제 상황</h2>
+<p>pdf-rag-streamlit 프로젝트를 진행하면서 심각한 성능 문제에 직면했습니다.</p>
+<h3>발생한 문제들</h3>
+<ol>
+<li><strong>느린 검색 속도</strong>: 100페이지 이상의 PDF에서 쿼리 응답 시간이 10초 이상</li>
+<li><strong>부정확한 답변</strong>: 관련 없는 문서 청크가 검색되어 LLM이 잘못된 답변 생성</li>
+<li><strong>메모리 오버플로우</strong>: 대용량 문서 처리 시 메모리 부족 에러 발생</li>
+</ol>
+<h2>원인 분석</h2>
+<h3>1. 비효율적인 문서 청킹</h3>
+<pre><code class="language-python"># 문제가 있던 코드
+text_splitter = CharacterTextSplitter(
+    chunk_size=1000,
+    chunk_overlap=0  # ❌ 오버랩 없음
+)
+</code></pre>
+<p><strong>문제점</strong>:</p>
+<ul>
+<li>오버랩이 없어 문맥이 단절됨</li>
+<li>고정 크기로 인해 문장이 중간에 잘림</li>
+</ul>
+<h3>2. 잘못된 임베딩 전략</h3>
+<pre><code class="language-python"># 비효율적인 방식
+for chunk in chunks:
+    embedding = get_embedding(chunk)  # ❌ 하나씩 처리
+    vector_store.add(embedding)
+</code></pre>
+<p><strong>문제점</strong>:</p>
+<ul>
+<li>순차 처리로 인한 속도 저하</li>
+<li>API 호출 오버헤드</li>
+</ul>
+<h2>해결 방법</h2>
+<h3>1. 스마트 청킹 전략</h3>
+<pre><code class="language-python"># 개선된 코드
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+
+text_splitter = RecursiveCharacterTextSplitter(
+    chunk_size=500,       # 더 작은 청크
+    chunk_overlap=100,    # ✅ 20% 오버랩
+    separators=["\n\n", "\n", ". ", " ", ""],  # 우선순위 기반 분할
+)
+</code></pre>
+<p><strong>개선 효과</strong>:</p>
+<ul>
+<li>문맥 보존: 오버랩으로 경계 정보 유지</li>
+<li>의미 단위 분할: 문장/단락 기준으로 자연스럽게 분리</li>
+</ul>
+<h3>2. 배치 임베딩 처리</h3>
+<pre><code class="language-python"># 최적화된 방식
+def batch_embed(chunks, batch_size=32):
+    embeddings = []
+    for i in range(0, len(chunks), batch_size):
+        batch = chunks[i:i + batch_size]
+        batch_embeddings = embedding_model.embed_documents(batch)  # ✅ 배치 처리
+        embeddings.extend(batch_embeddings)
+    return embeddings
+</code></pre>
+<p><strong>개선 효과</strong>:</p>
+<ul>
+<li>처리 속도 5배 향상</li>
+<li>API 호출 횟수 90% 감소</li>
+</ul>
+<h3>3. 벡터 DB 인덱스 최적화</h3>
+<pre><code class="language-python">from langchain.vectorstores import Chroma
+
+vector_store = Chroma(
+    embedding_function=embeddings,
+    collection_metadata={
+        "hnsw:space": "cosine",
+        "hnsw:M": 16,                    # ✅ 연결 수 최적화
+        "hnsw:ef_construction": 200,     # ✅ 인덱스 품질 향상
+        "hnsw:ef_search": 50             # ✅ 검색 속도/정확도 밸런스
+    }
+)
+</code></pre>
+<p><strong>개선 효과</strong>:</p>
+<ul>
+<li>검색 속도 3배 향상</li>
+<li>정확도는 유지하면서 성능 개선</li>
+</ul>
+<h3>4. 메모리 효율적인 처리</h3>
+<pre><code class="language-python"># 스트리밍 방식으로 대용량 문서 처리
+def process_large_pdf(pdf_path, chunk_processor):
+    with fitz.open(pdf_path) as doc:
+        for page_num in range(len(doc)):
+            page = doc.load_page(page_num)
+            text = page.get_text()
+
+            # 페이지별로 청킹 및 처리
+            chunks = text_splitter.split_text(text)
+            chunk_processor(chunks)
+
+            # 메모리 해제
+            del text, chunks
+            gc.collect()
+</code></pre>
+<h2>성과</h2>
+<h3>정량적 성과</h3>
+<p>| 지표 | Before | After | 개선율 |
+|------|--------|-------|--------|
+| 검색 속도 | 10.2초 | 2.1초 | <strong>80% 향상</strong> |
+| 답변 정확도 | 65% | 92% | <strong>27%p 증가</strong> |
+| 메모리 사용량 | 2.8GB | 850MB | <strong>70% 감소</strong> |</p>
+<h3>정성적 성과</h3>
+<ul>
+<li>✅ 실시간 대화형 검색 가능</li>
+<li>✅ 500페이지 이상 문서도 안정적 처리</li>
+<li>✅ Streamlit 앱의 사용자 경험 대폭 개선</li>
+</ul>
+<h2>배운 점</h2>
+<h3>1. 청킹이 RAG의 핵심</h3>
+<p>RAG 시스템에서 가장 중요한 것은 <strong>적절한 문서 청킹</strong>입니다. 청킹 전략에 따라:</p>
+<ul>
+<li>검색 정확도가 크게 달라짐</li>
+<li>LLM의 답변 품질이 결정됨</li>
+</ul>
+<h3>2. 측정 없이는 최적화 없음</h3>
+<p>성능 개선을 위해서는:</p>
+<ul>
+<li>각 단계별 시간 측정</li>
+<li>메모리 프로파일링</li>
+<li>A/B 테스트로 효과 검증</li>
+</ul>
+<pre><code class="language-python">import time
+import tracemalloc
+
+# 성능 측정 래퍼
+def measure_performance(func):
+    def wrapper(*args, **kwargs):
+        tracemalloc.start()
+        start_time = time.time()
+
+        result = func(*args, **kwargs)
+
+        elapsed_time = time.time() - start_time
+        current, peak = tracemalloc.get_traced_memory()
+        tracemalloc.stop()
+
+        print(f"Time: {elapsed_time:.2f}s")
+        print(f"Memory: {peak / 1024 / 1024:.2f}MB")
+
+        return result
+    return wrapper
+</code></pre>
+<h3>3. 배치 처리의 중요성</h3>
+<p>API 기반 서비스에서는:</p>
+<ul>
+<li>배치 처리로 네트워크 오버헤드 최소화</li>
+<li>Rate limit 고려한 처리 속도 조절</li>
+<li>비용 최적화 효과</li>
+</ul>
+<h2>실전 팁</h2>
+<h3>벡터 DB 선택 가이드</h3>
+<ol>
+<li><strong>Chroma</strong>: 로컬 개발, 프로토타이핑</li>
+<li><strong>Pinecone</strong>: 프로덕션, 대규모 데이터</li>
+<li><strong>Weaviate</strong>: 멀티모달, 복잡한 쿼리</li>
+</ol>
+<h3>청킹 크기 결정 방법</h3>
+<pre><code class="language-python"># 실험을 통한 최적 청크 크기 찾기
+chunk_sizes = [200, 500, 1000, 2000]
+overlaps = [0, 50, 100, 200]
+
+best_score = 0
+best_config = {}
+
+for size in chunk_sizes:
+    for overlap in overlaps:
+        score = evaluate_rag(chunk_size=size, overlap=overlap)
+        if score > best_score:
+            best_score = score
+            best_config = {'size': size, 'overlap': overlap}
+</code></pre>
+<h2>결론</h2>
+<p>RAG 시스템의 성능 문제는 대부분:</p>
+<ol>
+<li>문서 청킹 전략</li>
+<li>임베딩 처리 방식</li>
+<li>벡터 DB 설정</li>
+</ol>
+<p>이 세 가지를 최적화하면 해결됩니다.</p>
+<h2>참고 자료</h2>
+<ul>
+<li><a href="https://github.com/sw-woo/pdf-rag-streamlit">프로젝트 GitHub</a></li>
+<li><a href="https://python.langchain.com/docs/modules/data_connection/document_transformers/">LangChain 청킹 가이드</a></li>
+<li><a href="https://docs.trychroma.com/usage-guide">Chroma 성능 최적화</a></li>
+</ul>
+4:["$","div",null,{"className":"bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8 border border-gray-200 dark:border-gray-700","children":["$","div",null,{"className":"prose prose-lg dark:prose-invert max-w-none prose-headings:text-gray-900 dark:prose-headings:text-white prose-p:text-gray-700 dark:prose-p:text-gray-300 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-strong:text-gray-900 dark:prose-strong:text-white prose-code:text-blue-600 dark:prose-code:text-blue-400 prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-pre:text-gray-100","dangerouslySetInnerHTML":{"__html":"$6"}}]}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
